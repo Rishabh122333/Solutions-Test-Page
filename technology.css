@@ -1600,13 +1600,11 @@
   .solutionss_div-98 {
     display: flex;
     margin-top: 41px;
-    padding-left: 55px;
     flex-direction: column;
   }
   @media (max-width: 991px) {
     .solutionss_div-98 {
       max-width: 100%;
-      padding-left: 20px;
       margin-top: 40px;
     }
   }
